@@ -1,0 +1,14 @@
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/pojo/Profile.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/web/config/WebMvcConfigureInitializer.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/dao/impl/MeetingDaoImpl.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/pojo/Meeting.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/service/impl/ProfileServiceImpl.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/dao/impl/ProfileDaoImpl.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/web/config/CORSFilter.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/dao/ProfileDao.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/controller/MeetingController.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/service/impl/MeetingServiceImpl.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/dao/MeetingDao.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/service/ProfileService.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/web/config/WebMvcConfigure.java
+/home/mriganka/projects/zoom_video/zoomSOA/src/main/java/com/ayantsoft/zoom/service/MeetingService.java
